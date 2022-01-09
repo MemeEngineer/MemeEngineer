@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, CADing, prototyping, technology, electronics, innovation, Anime and memes.
 - 🌱 I’m currently learning coding (C++ so far) but soon branching to python. 
 - 💞️ I’m looking to collaborate on anything, willing to learn and help others.
-- 📫 How to reach me: if you are reading this then you have my contact information.
+- 📫 How to reach me: email: Johnnyw131@gmail.com
 
 <!---
 MemeEngineer/MemeEngineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
