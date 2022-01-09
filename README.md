@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MemeEngineer, a mechanical engineer by training and with a sense of humor.
-- 👀 I’m interested in coding, CADing, prototyping, technology, electronics, innovation and memes.
+- 👀 I’m interested in coding, CADing, prototyping, technology, electronics, innovation, Anime and memes.
 - 🌱 I’m currently learning coding (C++ so far) but soon branching to python. 
 - 💞️ I’m looking to collaborate on anything, willing to learn and help others.
 - 📫 How to reach me: if you are reading this then you have my contact information.
